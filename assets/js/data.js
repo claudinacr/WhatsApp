@@ -1,6 +1,6 @@
 var data = [{
   nameU: 'Claudia C',
-  mensajes: [{ texto: 'Hola como estas?', fecha: '10/12/2017', hora: '10:25am' }, { texto: 'Hola como estas?', fecha: '10/12/2017', hora: '10:25am' }],
+  mensajes: [{ texto: 'Hola como estas?', fecha: '10/12/2017', hora: '10:25am' }, { texto: 'Yo muy bien', fecha: '10/12/2017', hora: '10:25am' }],
   foto: 'assets/images/mariana.jpg'
 },
 {
@@ -22,4 +22,32 @@ var data = [{
   nameU: 'Mariana C',
   mensajes: [{ texto: 'Hola como estas?', fecha: '10/12/2017', hora: '10:25am' }, { texto: 'Hola como estas?', fecha: '10/12/2017', hora: '10:25am' }],
   foto: 'assets/images/mariana.jpg'
+}, {
+  nameU: 'Katy C',
+  mensajes: [{ texto: 'Hola como estas?', fecha: '10/12/2017', hora: '10:25am' }, { texto: 'Hola como estas?', fecha: '10/12/2017', hora: '10:25am' }],
+  foto: 'assets/images/katy.jpg'
+}, {
+  nameU: 'Katy C',
+  mensajes: [{ texto: 'Hola como estas?', fecha: '10/12/2017', hora: '10:25am' }, { texto: 'Hola como estas?', fecha: '10/12/2017', hora: '10:25am' }],
+  foto: 'assets/images/katy.jpg'
+}, {
+  nameU: 'Katy C',
+  mensajes: [{ texto: 'Hola como estas?', fecha: '10/12/2017', hora: '10:25am' }, { texto: 'Hola como estas?', fecha: '10/12/2017', hora: '10:25am' }],
+  foto: 'assets/images/katy.jpg'
+}, {
+  nameU: 'Katy C',
+  mensajes: [{ texto: 'Hola como estas?', fecha: '10/12/2017', hora: '10:25am' }, { texto: 'Hola como estas?', fecha: '10/12/2017', hora: '10:25am' }],
+  foto: 'assets/images/katy.jpg'
+}, {
+  nameU: 'Katy C',
+  mensajes: [{ texto: 'Hola como estas?', fecha: '10/12/2017', hora: '10:25am' }, { texto: 'Hola como estas?', fecha: '10/12/2017', hora: '10:25am' }],
+  foto: 'assets/images/katy.jpg'
+}, {
+  nameU: 'Katy C',
+  mensajes: [{ texto: 'Hola como estas?', fecha: '10/12/2017', hora: '10:25am' }, { texto: 'Hola como estas?', fecha: '10/12/2017', hora: '10:25am' }],
+  foto: 'assets/images/katy.jpg'
+}, {
+  nameU: 'Katy C',
+  mensajes: [{ texto: 'Hola como estas?', fecha: '10/12/2017', hora: '10:25am' }, { texto: 'Hola como estas?', fecha: '10/12/2017', hora: '10:25am' }],
+  foto: 'assets/images/katy.jpg'
 }]

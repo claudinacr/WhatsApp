@@ -25,6 +25,7 @@
     height: 3.7em;
     margin-top: 2em;
     border: 1px gray solid;
+    display: flex;
 }
 
 .screenWhatsappBodyOne {
@@ -187,13 +188,18 @@ img[src="assets/images/voice-recorder.png"] {
 }
 
 .contacts {
-    border: 3px maroon solid;
     display: flex;
     flex-direction: column;
+    overflow: scroll;
+    height: 31em;
 }
 
 .contacto {
-    border: 1px blue solid;
+    border: 1px gray solid;
+}
+
+.contacto:hover {
+    cursor: pointer;
 }
 
 .photoName {
