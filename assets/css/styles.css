@@ -1,0 +1,207 @@
+.backGreen {
+    background-color: #009080;
+    text-align: center;
+    width: 100%;
+    height: 7em;
+}
+
+.backGray {
+    background-color: #F2F0ED;
+    width: 100%;
+    height: 39.4em;
+}
+
+.screenWhatsappHeaderOne {
+    background-color: #EDEDED;
+    width: 30%;
+    height: 3.7em;
+    margin-top: 2em;
+    border: 1px gray solid;
+}
+
+.screenWhatsappHeaderTwo {
+    background-color: #EDEDED;
+    width: 50%;
+    height: 3.7em;
+    margin-top: 2em;
+    border: 1px gray solid;
+}
+
+.screenWhatsappBodyOne {
+    width: 30%;
+    height: 35em;
+    background-color: #EDEDED;
+    border: 1px gray solid;
+    border-top: none;
+    margin-bottom: 0;
+}
+
+.screenWhatsappBodyTwo {
+    display: flex;
+    width: 50%;
+    height: 35em;
+    background-color: #EDEDED;
+    border: 1px gray solid;
+    border-top: none;
+    background-image: url('/home/laboratoria-083/Desktop/Whatsapp/assets/images/BiD2mx-CEAAp94S.jpg');
+}
+
+.App {
+    display: flex;
+    align-self: center;
+    flex-wrap: wrap;
+    justify-content: center;
+    z-index: 1000;
+    margin-top: -45em;
+}
+
+img {
+    width: 2.5em;
+    margin-top: 0.4em;
+    margin-left: 0.4em;
+}
+
+.nameUser {
+    font-weight: bold;
+    margin-left: 1em;
+}
+
+.iconSpeak {
+    margin-left: 13em;
+    width: 1.5em;
+}
+
+.iconMenu {
+    width: 1.5em;
+    margin-left: 0.5em;
+}
+
+.iconClipTwo {
+    margin-top: 1em;
+    margin-left: 13em;
+    width: 1.5em;
+    margin-left: 40em;
+}
+
+.iconMenuTwo {
+    margin-top: 1em;
+    width: 1.5em;
+}
+
+button {
+    border: none;
+    background-color: transparent;
+}
+
+#mensaje {
+    font-size: 1.4em;
+    width: 48em;
+    height: 1.8em;
+    font-family: 'Anonymous Pro', monospace;
+    font-weight: bold;
+    resize: none;
+    border: none;
+    outline: none;
+    margin-left: 0.5em;
+    transition: height 0.6s ease-in;
+    border-radius: 5px;
+    border: 2px white solid;
+    border: 1px gray solid;
+}
+
+.createMessage {
+    margin-top: 35.4em;
+    background-color: #F2F0ED;
+    display: flex;
+    padding-top: 1em;
+    padding-bottom: 1em;
+    align-items: center;
+    border: 1px gray solid;
+    border-left: none;
+    border-right: none;
+}
+
+img[src="assets/images/happy.png"] {
+    width: 2em;
+    height: 2em;
+}
+
+img[src="assets/images/voice-recorder.png"] {
+    width: 2em;
+    height: 2em;
+}
+
+.screenWhatsappBodyTwo {
+    flex-direction: column;
+    position: relative;
+}
+
+.inputChatNew {
+    width: 48em;
+    height: 4em;
+    border: 1px gray solid;
+    border-top: none;
+    border-left: none;
+    border-right: none;
+}
+
+.inputMessage {
+    width: 100%;
+    height: 4em;
+    margin-top: 31em;
+    display: flex;
+    flex-direction: row;
+    padding: 0.7em;
+    position: absolute;
+}
+
+#mensaje {
+    width: 85%;
+}
+
+#botonSend {
+    cursor: pointer;
+}
+
+.showMessage {
+    width: 100%;
+    overflow-y: hidden;
+    overflow-x: auto;
+    position: absolute;
+    padding: 1em;
+    display: flex;
+    flex-direction: column;
+    justify-content: right;
+}
+
+.showMessage p {
+    font-weight: bold;
+    font-size: 1.2em;
+}
+
+.showMessage div {
+    margin-left: auto;
+    margin-top: 0.5em;
+    margin-bottom: 0.5em;
+    background-color: #DCF8C6;
+}
+
+.contacts {
+    border: 3px maroon solid;
+    display: flex;
+    flex-direction: column;
+}
+
+.contacto {
+    border: 1px blue solid;
+}
+
+.photoName {
+    display: flex;
+    flex-direction: row;
+}
+
+.photoName img {
+    max-height: 2.7em;
+    border-radius: 50%;
+}
