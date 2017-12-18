@@ -6,9 +6,9 @@ $(document).ready(function () {
   $('#botonSend').click(function () {
     var mensaje = $('#mensaje').val();
     $('#mensaje').val("");
-
     var contenedor = $('.showMessage');
     contenedor.append('<div>' + '<p>' + mensaje + '</p>' + '</div>');
+
   });
   for (var i = 0; i < data.length; i++) {
     photo = '';
